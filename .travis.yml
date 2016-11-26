@@ -1,0 +1,7 @@
+language: python
+python:
+   - "3.4.2"
+env:
+   - DJANGO_VERSION=1.9
+script: pre-commit run --all-files
+
