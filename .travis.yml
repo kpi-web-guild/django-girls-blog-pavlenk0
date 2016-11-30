@@ -1,9 +1,5 @@
-before_install:
-   - pip install pre-commit
+before_install: pip install pre-commit
 language: python
-python:
-   - "3.4.2"
-env:
-   - DJANGO_VERSION=1.9
+python: "3.5"
 script: pre-commit run --all-files
 
