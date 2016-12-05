@@ -1,4 +1,4 @@
-**Copyright &copy; 2016, Kpi-Web-Guild**
+**Copyright &copy; 2016, Volodymyr Pavlenko**
 
 **All rights reserved.**
 

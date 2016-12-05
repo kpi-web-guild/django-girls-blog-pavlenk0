@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/kpi-web-guild/django-girls-blog-pavlenk0.png)](https://travis-ci.org/kpi-web-guild/django-girls-blog-pavlenk0)
+[![Build Status](https://travis-ci.org/kpi-web-guild/django-girls-blog-pavlenk0.svg?branch=master)](https://travis-ci.org/kpi-web-guild/django-girls-blog-pavlenk0)
 # My Django Blog
 
 With the help of the [DjangoGirls](https://www.gitbook.com/book/djangogirls/djangogirls-tutorial/details) I create my own blog.
