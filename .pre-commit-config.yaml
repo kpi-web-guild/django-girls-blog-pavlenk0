@@ -31,3 +31,8 @@
     sha: v1.0.2
     hooks:
     -   id: forbid-html-img-without-alt-text
+
+# -  repo: git://github.com/FalconSocial/pre-commit-mirrors-pep257
+#    sha: master
+#    hooks:
+#    -  id: pep257
