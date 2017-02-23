@@ -96,3 +96,6 @@ myvenv
 
 # Database
 db.sqlite3
+
+# Vagga
+.vagga
